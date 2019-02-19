@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KYLGRRCVR</string>
+    <string name="title_activity_key_receiver">KeyReceiverActivity</string>
+    <string name="keychars" />
+</resources>
